@@ -6,6 +6,9 @@ My name is Belgazdasz or Bélgazdász.
 I'm a beginner in Python, I'm also studying Lua.
 I speak English, Hungarian and I'm learing German.
 
+
+
+
 How to pronounce my name correctly:
 
 
